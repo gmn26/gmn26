@@ -1,4 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlzODM0bGcxNDFubzJlMm1kMTQxN3h2ZXlhNmgxdGNidGVyem01eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gmn26/count.svg" />
+</p>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ghazy-muhari-novrial/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/gmnovrial/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <img src="https://wakatime.com/badge/github/gmn26/Profile-Readme-WakaTime.svg" alt="Time Tracked"> -->
+</div>
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **gmn26/gmn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
