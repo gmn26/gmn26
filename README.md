@@ -17,6 +17,8 @@
 <!--   <img src="https://wakatime.com/badge/github/gmn26/Profile-Readme-WakaTime.svg" alt="Time Tracked"> -->
 </div>
 
+<!-- <img src="https://github.com/gmn26/gmn26/blob/main/images/stat.svg" alt="gmn26 WakaTime Activity"/> -->
+
 <!-- ### Hi there 👋 -->
 
 <!--
